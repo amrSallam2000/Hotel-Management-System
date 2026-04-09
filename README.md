@@ -135,10 +135,14 @@ The database is named **`myHotel`** and includes the following tables (based on 
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots 
 
-> You can add screenshots of the Login form, Dashboard, Add Room, Customer Registration, etc., here.
 
+| | |
+|:---:|:---:|
+| ![](./images/1.png) | ![](./images/2.png) |
+| ![](./images/3.png) | ![](./images/4.png) |
+| ![](./images/5.png) | ![](./images/6.png) |
 ---
 
 ## 🚀 How to Run the Project
