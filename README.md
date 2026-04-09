@@ -17,10 +17,10 @@ It is a **Mini Project** that demonstrates basic CRUD operations, user authentic
 
 ## 👨‍💻 Author
 
-- **Name:** [Amr Sallam]
+- **Name:** Amr Sallam
 - **Course:** Database Course
 - **Date:** 04/11/2022
-- **University Project:** Mti
+- **University Project:** MTI
 
 ---
 
@@ -135,14 +135,17 @@ The database is named **`myHotel`** and includes the following tables (based on 
 
 ---
 
-## 📸 Screenshots 
+## 📸 Screenshots
 
+Here are some screenshots of the application in action:
+## 📸 Screenshots
 
 | | |
 |:---:|:---:|
 | ![](./images/1.png) | ![](./images/2.png) |
 | ![](./images/3.png) | ![](./images/4.png) |
 | ![](./images/5.png) | ![](./images/6.png) |
+
 ---
 
 ## 🚀 How to Run the Project
@@ -150,5 +153,4 @@ The database is named **`myHotel`** and includes the following tables (based on 
 ### Prerequisites
 - Visual Studio (2017 or later)
 - SQL Server (LocalDB or full instance)
-- .NET Framework (4.8)
-
+- .NET Framework (version used in project)
